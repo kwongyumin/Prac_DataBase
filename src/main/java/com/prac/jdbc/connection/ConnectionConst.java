@@ -1,4 +1,4 @@
-package com.prac.jdbc.Connection;
+package com.prac.jdbc.connection;
 
 
 public abstract class ConnectionConst {
